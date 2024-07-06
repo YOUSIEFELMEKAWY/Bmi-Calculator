@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:bmicalculator/Cubit/Bmi_Cubit.dart';
 import 'package:bmicalculator/Cubit/Bmi_State.dart';
 import 'package:flutter/material.dart';
